@@ -1,0 +1,158 @@
+1624198080317	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileFpxZnz"
+1624198084557	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileFpxZnz/search.json.mozlz4", (void 0)))
+1624198086530	Marionette	INFO	Listening on port 52641
+1624198086628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://www.flightcentre.com.au/sites/v0.flightcentre.com.au/files/js/js_KfbNM3dTBJSaFrFcaZFr0u45MLRQpjmfYnCyyRXlc20.js, line 2374: ReferenceError: twig is not defined
+1624198188754	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofilerKWmo0"
+1624198189299	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofilerKWmo0/search.json.mozlz4", (void 0)))
+1624198191183	Marionette	INFO	Listening on port 53337
+1624198191267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://www.flightcentre.com.au/sites/v0.flightcentre.com.au/files/js/js_KfbNM3dTBJSaFrFcaZFr0u45MLRQpjmfYnCyyRXlc20.js, line 2374: ReferenceError: twig is not defined
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1624198279693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileLXqNOv"
+1624198280207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileLXqNOv/search.json.mozlz4", (void 0)))
+1624198282099	Marionette	INFO	Listening on port 53967
+1624198282180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://www.flightcentre.com.au/sites/v0.flightcentre.com.au/files/js/js_KfbNM3dTBJSaFrFcaZFr0u45MLRQpjmfYnCyyRXlc20.js, line 2374: ReferenceError: twig is not defined
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://flightcentre.fctggiftcards.com/ShoppingCart/Checkout, line 1477: TypeError: $(...).offset() is undefined
+1624198419906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofilevxueY3"
+1624198420424	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofilevxueY3/search.json.mozlz4", (void 0)))
+1624198422265	Marionette	INFO	Listening on port 54826
+1624198422304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://www.flightcentre.com.au/sites/v0.flightcentre.com.au/files/js/js_KfbNM3dTBJSaFrFcaZFr0u45MLRQpjmfYnCyyRXlc20.js, line 2374: ReferenceError: twig is not defined
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1624198535864	Marionette	INFO	Stopped listening on port 54826
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624198539658	Marionette	INFO	Stopped listening on port 53967
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1624198542706	Marionette	INFO	Stopped listening on port 53337
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1624198546509	Marionette	INFO	Stopped listening on port 52641
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626453359818	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofile8TWcup"
+1626453366344	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofile8TWcup/search.json.mozlz4", (void 0)))
+1626453368371	Marionette	INFO	Listening on port 63422
+1626453368454	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1626453397890	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileFzfshd"
+1626453398366	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileFzfshd/search.json.mozlz4", (void 0)))
+1626453400332	Marionette	INFO	Listening on port 63558
+1626453400395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626453401978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileWLOT3B"
+1626453402411	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileWLOT3B/search.json.mozlz4", (void 0)))
+1626453404405	Marionette	INFO	Listening on port 63616
+1626453404490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626453480921	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofilenf1lL3"
+1626453481485	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofilenf1lL3/search.json.mozlz4", (void 0)))
+1626453483490	Marionette	INFO	Listening on port 63865
+1626453483542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626453487526	Marionette	INFO	Stopped listening on port 63422
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626453490425	Marionette	INFO	Stopped listening on port 63558
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1626453493879	Marionette	INFO	Stopped listening on port 63616
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626453499569	Marionette	INFO	Stopped listening on port 63865
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626453557815	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileMshltt"
+1626453558276	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileMshltt/search.json.mozlz4", (void 0)))
+1626453560243	Marionette	INFO	Listening on port 63940
+1626453560327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626453704473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileHC5I1p"
+1626453705006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileHC5I1p/search.json.mozlz4", (void 0)))
+1626453706789	Marionette	INFO	Listening on port 64030
+1626453706878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1446979310, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1446979310, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1446979310, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1446979310 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1446979310 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TNH9WJ, line 956: uncaught exception: [object Object]
+JavaScript error: https://www.srilankan.com/en_uk/au line 963 > injectedScript, line 1: TypeError: dataLayer[0].market is undefined
+JavaScript error: https://www.srilankan.com/en_uk/au, line 6383: ReferenceError: closeLoaders is not defined
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/jquery.dd.min.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/MainSlider.js, line 178: TypeError: photoObject is undefined
+1626453725793	Marionette	INFO	Stopped listening on port 64030
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626453753592	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileXXYkoY"
+1626453754125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileXXYkoY/search.json.mozlz4", (void 0)))
+1626453756206	Marionette	INFO	Listening on port 64172
+1626453756300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=281440791, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=281440791, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=281440791, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=281440791 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=281440791 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TNH9WJ, line 956: uncaught exception: [object Object]
+JavaScript error: https://www.srilankan.com/en_uk/au line 963 > injectedScript, line 1: TypeError: dataLayer[0].market is undefined
+JavaScript error: https://www.srilankan.com/en_uk/au, line 6383: ReferenceError: closeLoaders is not defined
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/jquery.dd.min.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/MainSlider.js, line 178: TypeError: photoObject is undefined
+1626453780923	Marionette	INFO	Stopped listening on port 64172
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626453803149	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileP2DwpU"
+1626453803640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileP2DwpU/search.json.mozlz4", (void 0)))
+1626453805773	Marionette	INFO	Listening on port 64316
+1626453805861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=717848717, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=717848717, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=717848717 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TNH9WJ, line 956: uncaught exception: [object Object]
+JavaScript error: https://www.srilankan.com/en_uk/au line 963 > injectedScript, line 1: TypeError: dataLayer[0].market is undefined
+JavaScript error: https://www.srilankan.com/en_uk/au, line 6383: ReferenceError: closeLoaders is not defined
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/jquery.dd.min.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/MainSlider.js, line 178: TypeError: photoObject is undefined
+1626453836740	Marionette	INFO	Stopped listening on port 64316
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626453865738	Marionette	INFO	Stopped listening on port 63940
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
