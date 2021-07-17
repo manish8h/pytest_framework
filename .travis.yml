@@ -1,0 +1,12 @@
+language: python
+python:
+  - 3.6
+script:
+  - pytest
+
+notifications:
+  email:
+    recipients:
+      - manish.singh90@hotmail.com
+    on_success: never
+    on_failure: always
