@@ -1,15 +1,13 @@
 language: python
 python:
   - 3.7
-matrix:
-  include:
-    - python: 3.7
-      dist: xenial
-      sudo: true
 script:
   - pytest
 os:
   - osx
+osx_image: xcode11.2  # Python 3.7.4 running on macOS 10.14.4
+virtualenv:
+  system_site_packages: true
 notifications:
   email:
     recipients:
