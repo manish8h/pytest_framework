@@ -31,7 +31,7 @@ class TestLoginPage():
         # self.driver = webdriver.Firefox(executable_path="/Users/manish/PycharmProjects/pytest_01/drivers/geckodriver")
         # self.driver = setup
         # firefox_driver_path = "/Users/manish/PycharmProjects/pytest_01/drivers/geckodriver"
-        firefox_driver_path = "drivers/geckodriver"
+        firefox_driver_path = "/drivers/geckodriver"
         self.driver = webdriver.Firefox(executable_path=firefox_driver_path)
         self.driver.get("https://www.srilankan.com/en_uk/au")
         # title_text = self.driver.title

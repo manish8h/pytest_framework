@@ -1851,3 +1851,24 @@ JavaScript error: resource://activity-stream/lib/PersonalityProvider/Personality
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1626543081842	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofilew360mA"
+1626543082632	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofilew360mA/search.json.mozlz4", (void 0)))
+1626543084703	Marionette	INFO	Listening on port 56863
+1626543084740	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2030014133, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2030014133, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2030014133, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2030014133 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2030014133 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.srilankan.com/en_uk/au, line 6383: ReferenceError: closeLoaders is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TNH9WJ, line 956: uncaught exception: [object Object]
+JavaScript error: https://www.srilankan.com/en_uk/au line 963 > injectedScript, line 1: TypeError: dataLayer[0].market is undefined
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/jquery.dd.min.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/MainSlider.js, line 178: TypeError: photoObject is undefined
+1626543124808	Marionette	INFO	Stopped listening on port 56863
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
