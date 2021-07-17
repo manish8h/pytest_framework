@@ -1838,3 +1838,5 @@ JavaScript error: https://www.srilankan.com/flysmiles/Scripts/MainSlider.js, lin
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

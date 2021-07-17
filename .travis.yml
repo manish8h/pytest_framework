@@ -3,10 +3,11 @@ python:
   - 3.6
 script:
   - pytest
-
+os:
+  - osx
 notifications:
   email:
     recipients:
-      - manish.singh90@hotmail.com
+      - ur@email.com
     on_success: never
     on_failure: always
