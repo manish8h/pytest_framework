@@ -12,7 +12,7 @@ from testCases.basetest import BaseTest
 from selenium.webdriver.support.select import Select
 from pageObjects.signup_page import SignupPage
 
-firefox_driver_path = "/Users/manish/PycharmProjects/pytest_01/drivers/geckodriver"
+firefox_driver_path = "drivers/geckodriver"
 
 
 class TestSignup():
@@ -66,7 +66,7 @@ class TestSignup():
 
         # move it to page object model
         signup_page = SignupPage(self.driver)
-        jsonfile = "/Users/manish/PycharmProjects/pytest_01/testCases/testData/data.json"
+        jsonfile = "testCases/testData/data.json"
         data = []
         with open(jsonfile) as file:
             data = json.load(file)

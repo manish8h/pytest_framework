@@ -1,4 +1,5 @@
 firefox_driver_path = "/Users/manish/PycharmProjects/pytest_01/drivers/geckodriver"
+# firefox_driver_path = "drivers/geckodriver"
 from selenium import webdriver
 from time import sleep
 

@@ -30,7 +30,8 @@ class TestLoginPage():
         # self.driver = webdriver.Chrome(executable_path="/Users/manish/PycharmProjects/pytest_01/drivers/chromedriver")
         # self.driver = webdriver.Firefox(executable_path="/Users/manish/PycharmProjects/pytest_01/drivers/geckodriver")
         # self.driver = setup
-        firefox_driver_path = "/Users/manish/PycharmProjects/pytest_01/drivers/geckodriver"
+        # firefox_driver_path = "/Users/manish/PycharmProjects/pytest_01/drivers/geckodriver"
+        firefox_driver_path = "drivers/geckodriver"
         self.driver = webdriver.Firefox(executable_path=firefox_driver_path)
         self.driver.get("https://www.srilankan.com/en_uk/au")
         # title_text = self.driver.title
@@ -112,7 +113,7 @@ class TestLoginPage():
         #click on join now
         self.driver.find_element_by_id("getButtonValue").click()
 
-        pytest.fail("bad luck")
+        # pytest.fail("bad luck")
         # self.driver.save_screenshot("./Screenshots/test_011.png")
         self.driver.close()
         self.driver.quit()

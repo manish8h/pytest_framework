@@ -1742,3 +1742,99 @@ JavaScript error: https://www.srilankan.com/flysmiles/Scripts/MainSlider.js, lin
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1626532742884	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofile0JpAdj"
+1626532743869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofile0JpAdj/search.json.mozlz4", (void 0)))
+1626532745974	Marionette	INFO	Listening on port 55023
+1626532746079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=627366022, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=627366022, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=627366022, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=627366022 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=627366022 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TNH9WJ, line 956: uncaught exception: [object Object]
+JavaScript error: https://www.srilankan.com/en_uk/au line 963 > injectedScript, line 1: TypeError: dataLayer[0].market is undefined
+JavaScript error: https://www.srilankan.com/en_uk/au, line 3617: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.srilankan.com/en_uk/au, line 6383: ReferenceError: closeLoaders is not defined
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/jquery.dd.min.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/MainSlider.js, line 178: TypeError: photoObject is undefined
+1626532768011	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileEZDeRZ"
+1626532768599	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileEZDeRZ/search.json.mozlz4", (void 0)))
+1626532770696	Marionette	INFO	Listening on port 55149
+1626532770792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1970742092, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1970742092, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1970742092, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1970742092 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1970742092 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TNH9WJ, line 956: uncaught exception: [object Object]
+JavaScript error: https://www.srilankan.com/en_uk/au line 963 > injectedScript, line 1: TypeError: dataLayer[0].market is undefined
+JavaScript error: https://www.srilankan.com/en_uk/au, line 3617: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.srilankan.com/en_uk/au, line 6383: ReferenceError: closeLoaders is not defined
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/jquery.dd.min.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/MainSlider.js, line 178: TypeError: photoObject is undefined
+1626532828733	Marionette	INFO	Stopped listening on port 55149
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626532832230	Marionette	INFO	Stopped listening on port 55023
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626535295476	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileulQ4DT"
+1626535296233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileulQ4DT/search.json.mozlz4", (void 0)))
+1626535298359	Marionette	INFO	Listening on port 55739
+1626535298499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=873356080, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=873356080, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=873356080, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=873356080 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=873356080 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TNH9WJ, line 956: uncaught exception: [object Object]
+JavaScript error: https://www.srilankan.com/en_uk/au line 963 > injectedScript, line 1: TypeError: dataLayer[0].market is undefined
+JavaScript error: https://www.srilankan.com/en_uk/au, line 6383: ReferenceError: closeLoaders is not defined
+JavaScript error: https://www.srilankan.com/en_uk/au, line 3617: TypeError: document.getElementById(...) is null
+1626535515438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofilecS46nr"
+1626535516006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofilecS46nr/search.json.mozlz4", (void 0)))
+1626535517928	Marionette	INFO	Listening on port 55875
+1626535518018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1478626048, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1478626048, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1478626048, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1478626048 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1478626048 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TNH9WJ, line 956: uncaught exception: [object Object]
+JavaScript error: https://www.srilankan.com/en_uk/au line 963 > injectedScript, line 1: TypeError: dataLayer[0].market is undefined
+JavaScript error: https://www.srilankan.com/en_uk/au, line 3617: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.srilankan.com/en_uk/au, line 6383: ReferenceError: closeLoaders is not defined
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/jquery.dd.min.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/MainSlider.js, line 178: TypeError: photoObject is undefined
+1626535535503	Marionette	INFO	Stopped listening on port 55875
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626535542825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileCRd3Vf"
+1626535543287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j_/d4pffrl51rd_2ndtlrwz5s_00000gp/T/rust_mozprofileCRd3Vf/search.json.mozlz4", (void 0)))
+1626535545378	Marionette	INFO	Listening on port 55995
+1626535545421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=585157992, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=585157992, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=585157992, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=585157992 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.srilankan.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=585157992 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TNH9WJ, line 956: uncaught exception: [object Object]
+JavaScript error: https://www.srilankan.com/en_uk/au line 963 > injectedScript, line 1: TypeError: dataLayer[0].market is undefined
+JavaScript error: https://www.srilankan.com/en_uk/au, line 6383: ReferenceError: closeLoaders is not defined
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/jquery.dd.min.js, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.srilankan.com/flysmiles/Scripts/MainSlider.js, line 178: TypeError: photoObject is undefined
+1626535563869	Marionette	INFO	Stopped listening on port 55995
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
