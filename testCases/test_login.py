@@ -5,6 +5,8 @@ from selenium.webdriver.support.ui import Select
 from utilities.readProperties import ReadConfig
 from utilities.logger import LogGen
 from webdriver_manager.firefox import GeckoDriverManager
+from webdriver_manager.chrome import ChromeDriverManager
+
 
 from time import sleep
 
@@ -35,8 +37,12 @@ class TestLoginPage():
         # self.driver = webdriver.Firefox(executable_path=firefox_driver_path)
 
         #new way
-        self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+        # self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+
+        self.driver = webdriver.Chrome(ChromeDriverManager().install())
+
         self.driver.get("https://www.srilankan.com/en_uk/au")
+
         # title_text = self.driver.title
         # print("\n"+title_text)
         sleep(2)
