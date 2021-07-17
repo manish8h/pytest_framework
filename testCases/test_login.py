@@ -7,6 +7,9 @@ from utilities.logger import LogGen
 from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.chrome import ChromeDriverManager
 
+from selenium.webdriver.chrome.options import Options
+
+
 
 from time import sleep
 
@@ -39,7 +42,12 @@ class TestLoginPage():
         #new way
         # self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
 
-        self.driver = webdriver.Chrome(ChromeDriverManager().install())
+        #run it on travis ci
+        chrome_options = Options()
+        chrome_options.add_argument("--disable-extensions")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.headless = True
+        self.driver = webdriver.Chrome(ChromeDriverManager().install(), options= chrome_options)
 
         self.driver.get("https://www.srilankan.com/en_uk/au")
 
