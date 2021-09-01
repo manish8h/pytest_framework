@@ -19,10 +19,12 @@ class TestSignup():
 
     def test_signup_one(self):
         # self.driver.get("https://www.srilankan.com/en_uk/au")
-        # self.driver = webdriver.Firefox(executable_path=firefox_driver_path)
+        self.driver = webdriver.Firefox(executable_path=firefox_driver_path)
 
-        # self.driver.get("https://www.flightcentre.com.au/")
-        # title_text = self.driver.title
+        self.driver.get("https://www.flightcentre.com.au/")
+        title_text = self.driver.title
+        self.driver.implicitly_wait(5)
+        self.driver.set_page_load_timeout(30)
         # print("\n"+title_text)
         # signup_page = SignupPage(self.driver)
 

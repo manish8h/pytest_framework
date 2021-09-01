@@ -19,16 +19,17 @@ def setup(request):
     # driver.close()
     # driver.quit()
 
-@pytest.fixture(scope="session")
+@pytest.fixture(scope="class")
 def driver_get(request):
     driver = webdriver.Firefox(executable_path=firefox_driver_path)
-    session = request.node
-    for item in session.items:
-        cls = item.getparent(pytest.Class)
-        setattr(cls.obj, "driver", driver)
+    request.cls.driver = driver
+    # session = request.node
+    # for item in session.items:
+    #     cls = item.getparent(pytest.Class)
+    #     setattr(cls.obj, "driver", driver)
     yield
-    driver.close()
-    driver.quit()
+    request.cls.driver.close()
+    request.cls.driver.quit()
 
 
 @pytest.fixture
